@@ -72,3 +72,7 @@ footer{
     box-shadow: 0 -3px 5px rgb(0, 0, 0,0.104);
     text-align: center;
 }
+
+.escondido{
+    display: none;
+}
